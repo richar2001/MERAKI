@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.cab_nav{
+	width: 30%;
+	padding: 0px;
+	text-align: : left;
+	position: 
+	top: 1px;
+}
+.cab_nav ul li{
+	display: inline-block;
+	padding: 50px 50px
+	color: white;
+	font-family: sans-serif;
+	cursor: pointer;
+	font-size: 20px: 
+}
+.cab_nav ul li a{
+	text-decoration: overline;
+	color: white;
+}
+.video{
+	position: fixed;
+	min-width: 100%;
+	min-width: 100%;
+	top: 50%;
+	left: 50%;
+	transform: translateY(-50%) translateX(-50%);
+	z-index: -1;
+	opacity: 90%
+}
+.marca{
+	background-color: rgba(21, 88, 230, 0.3);
+}
